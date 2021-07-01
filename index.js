@@ -18,7 +18,7 @@
 
     const formidable = require('formidable');
     let contacts = new Map()
-    contacts.set('abc','https:/www.google.com');
+    contacts.set('sample','https://github.com/dtaneja123/urlShrink');
 
     app.get('/:username',(req,res,next)=>{
         console.log("Rerouting url at " +req.params.username);
