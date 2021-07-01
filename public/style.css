@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+body{
+	background: #9217a0;
+	background-image: url("background.png");
+	height: 100vh;
+	color: white;
+	font-family: 'Staatliches', sans-serif;
+	background-size:cover;
+}
+
+
+
+h1{
+	font-size: 60px;
+}
+
+.out{
+	font-family: 'Barlow';
+	font-size: 10px !important;
+}
+
+.h50{
+    height: 50%;
+}
+
+.hidden{
+	display: none;
+}
+
+.hw{
+	height: fit-content;
+}
+.h30{
+    height: 30%;
+}
+.h40{
+    height: 40%;
+}
+.h70{
+    height: 70%;
+}
+.w90{
+    width: 90%;
+}
+.h100{
+	height:100%;
+}
+.w100{
+	width: 100%;
+}
+.w80{
+	width: 80%;
+}
